@@ -33,3 +33,5 @@
 сейчас будем пушить
 
 сейчас произведем pull
+
+added some new info for lastSeminar
